@@ -1,0 +1,3 @@
+Como nas técnicas de Port Knocking e Single Packet Authorization, o Aport – Screen Door tem a função de proteger determinada porta no Sistema Operacional.
+É uma alusão as portas mosquiteiras (screen doors), no qual tem como objetivo impedir a entradas de insetos indesejáveis. 
+Abrir uma porta de escuta definida pelo utilizador, essa com a missão de receber uma senha, a senha sendo idêntica a registrada, será liberado o acesso a outra porta. 
