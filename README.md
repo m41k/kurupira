@@ -1,0 +1,2 @@
+# kurupira
+For Kurupira OS
